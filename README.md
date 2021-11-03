@@ -1,10 +1,9 @@
-#AU
-
+# AU
 ![plot](./assets/img/logo.png)
 
 is a responsive Web Page for a Universit
 
-#Technologies
--HTML
--CSS
+# Technologies
+-HTML <br/>
+-CSS <br/>
 -JAVASCRIPT
